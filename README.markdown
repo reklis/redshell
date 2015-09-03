@@ -8,7 +8,7 @@ easily execute windows commands from linux using zeromq
 
 Generally speaking, the primary goal is seamless client/host integration.  The ability to type a command from inside a vm, and have it run that command on the vm host.
 
-Specifically I use this to launch editor windows on my windows host from inside linux vms because quite frankly when it comes to shells, cygwin is just not good enough. In theory this can be used for any linux to windows remote communication if configured properly, or as a host exploit of configured poorly.
+Specifically I use this to launch editor windows on my windows host from inside linux vms because quite frankly when it comes to shells, cygwin is just not good enough. In theory this can be used for any linux to windows remote communication if configured properly or as a host exploit if configured poorly.
 
 ## files and directories
 
