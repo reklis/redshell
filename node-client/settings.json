@@ -1,0 +1,9 @@
+{
+  "socket": "tcp://192.168.56.1:5555",
+  "mountpoints": [
+    { "vm": "/mnt/code/",
+      "host": "c:\\dev\\" },
+    { "vm": "/mnt/nthome/",
+      "host": "c:\\Users\\myuser\\" }
+  ]
+}
